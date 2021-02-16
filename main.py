@@ -1,8 +1,6 @@
 import json
 import os
 import random
-import sys
-sys.path.append("/Sets")
 from Sets import OG
 
 set_objects = dict()
@@ -16,13 +14,13 @@ def sort_sets():
                 for i in OG.OGSets.sets:
                     if set_name.startswith(i):
                         set_objects[set_name] = OG.OGSets()
-                    data = json.load(json_data)
-                    for x in data:
-                        if '\n' in x['rarity']:
-                            for r in x['rarity'].split('\n'):
-                                set_objects[set_name].add_card(str(r), str(x['card_name']))
-                        else:
-                            set_objects[set_name].add_card(str(x['rarity']), str(x['card_name']))
+                        data = json.load(json_data)
+                        for x in data:
+                            if '\n' in x['rarity']:
+                                for r in x['rarity'].split('\n'):
+                                    set_objects[set_name].add_card(str(r), str(x['card_name']))
+                            else:
+                                set_objects[set_name].add_card(str(x['rarity']), str(x['card_name']))
 
 
 def main():
