@@ -1,0 +1,482 @@
+[
+	{
+		"set_number" : "BT01-001",
+		"card_name" : "King of Knights, Alfred",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-002",
+		"card_name" : "Blaster Blade",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-003",
+		"card_name" : "Barcgal",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+		{
+		"set_number" : "BT01-004",
+		"card_name" : "Dragonic Overlord",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-005",
+		"card_name" : "Embodiment of Victory, Aleph",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-006",
+		"card_name" : "CEO Amaterasu",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-007",
+		"card_name" : "Battle Sister, Cocoa",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-008",
+		"card_name" : "Asura Kaiser",
+		"rarity" : "RRR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-009",
+		"card_name" : "Demon Slaying Knight, Lohengrin",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-010",
+		"card_name" : "Solitary Knight, Gancelot",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-011",
+		"card_name" : "Flash Shield, Iseult",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-012",
+		"card_name" : "Future Knight, Llew",
+		"rarity" : "RR",
+		"trigger" : "Critical"
+	},
+	{
+		"set_number" : "BT01-013",
+		"card_name" : "Vortex Dragon",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-014",
+		"card_name" : "Dragon Knight, Aleph",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-015",
+		"card_name" : "Wyvern Guard, Barri",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+		{
+		"set_number" : "BT01-016",
+		"card_name" : "Lizard Soldier, Conroe",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-017",
+		"card_name" : "Maiden of Libra",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-018",
+		"card_name" : "Battle Sister, Mocha",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-019",
+		"card_name" : "Battle Sister, Chocolat",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-020",
+		"card_name" : "Juggernaut Maximum",
+		"rarity" : "RR",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-021",
+		"card_name" : "Knight of Silence, Gallatin",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-022",
+		"card_name" : "Dragon Knight, Nehalem",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-023",
+		"card_name" : "Wyvern Striker, Tejas",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-024",
+		"card_name" : "Embodiment of Spear, Tahr",
+		"rarity" : "R",
+		"trigger" : "Critical"
+	},
+	{
+		"set_number" : "BT01-025",
+		"card_name" : "Oracle Guardian, Apollon",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-026",
+		"card_name" : "Oracle Guardian, Wiseman",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-027",
+		"card_name" : "Lozenge Magus",
+		"rarity" : "R",
+		"trigger" : "Heal"
+	},
+	{
+		"set_number" : "BT01-028",
+		"card_name" : "Mr. Invincible",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-029",
+		"card_name" : "Brutal Jack",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-030",
+		"card_name" : "King of Sword",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-031",
+		"card_name" : "Queen of Heart",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-032",
+		"card_name" : "Battleraizer",
+		"rarity" : "R",
+		"trigger" : "Stand"
+	},
+	{
+		"set_number" : "BT01-033",
+		"card_name" : "Tyrant, Deathrex",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-034",
+		"card_name" : "Assault Dragon, Blightops",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-035",
+		"card_name" : "Stealth Dragon, Voidmaster",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-036",
+		"card_name" : "Demon Eater",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-037",
+		"card_name" : "Monster Frank",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-038",
+		"card_name" : "Commodore Blueblood",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-039",
+		"card_name" : "Hell Spider",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-040",
+		"card_name" : "Bloody Hercules",
+		"rarity" : "R",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-041",
+		"card_name" : "Covenant Knight, Randolf",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-042",
+		"card_name" : "Little Sage, Marron",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-043",
+		"card_name" : "Lake Maiden, Lien",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-044",
+		"card_name" : "Wingal",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-045",
+		"card_name" : "Weapons Dealer, Govannon",
+		"rarity" : "C",
+		"trigger" : "Draw"
+	},
+	{
+		"set_number" : "BT01-046",
+		"card_name" : "Flogal",
+		"rarity" : "C",
+		"trigger" : "Stand"
+	},
+	{
+		"set_number" : "BT01-047",
+		"card_name" : "Yggdrasil Maiden, Elaine",
+		"rarity" : "C",
+		"trigger" : "Heal"
+	},
+	{
+		"set_number" : "BT01-048",
+		"card_name" : "Embodiment of Armor, Bahr",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-049",
+		"card_name" : "Dragon Monk, Gojo",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-050",
+		"card_name" : "Wyvern Strike, Jarran",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-051",
+		"card_name" : "Dragon Dancer, Monica",
+		"rarity" : "C",
+		"trigger" : "Draw"
+	},
+	{
+		"set_number" : "BT01-052",
+		"card_name" : "Lizard Soldier, Ganlu",
+		"rarity" : "C",
+		"trigger" : "Stand"
+	},
+	{
+		"set_number" : "BT01-053",
+		"card_name" : "Dragon Monk, Genjo",
+		"rarity" : "C",
+		"trigger" : "Heal"
+	},
+	{
+		"set_number" : "BT01-054",
+		"card_name" : "Oracle Guardian, Gemini",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-055",
+		"card_name" : "Weather Girl, Milk",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-056",
+		"card_name" : "Oracle Guardian, Nike",
+		"rarity" : "C",
+		"trigger" : "Critical"
+	},
+	{
+		"set_number" : "BT01-057",
+		"card_name" : "Dream Eater",
+		"rarity" : "C",
+		"trigger" : "Draw"
+	},
+	{
+		"set_number" : "BT01-058",
+		"card_name" : "Miracle Kid",
+		"rarity" : "C",
+		"trigger" : "Draw"
+	},
+	{
+		"set_number" : "BT01-059",
+		"card_name" : "Hungry Dumpty",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-060",
+		"card_name" : "Tough Boy",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-061",
+		"card_name" : "Screamin' and Dancin' Announcer, Shout",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-062",
+		"card_name" : "Clay-doll Mechanic",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+		{
+		"set_number" : "BT01-063",
+		"card_name" : "Shining Lady",
+		"rarity" : "C",
+		"trigger" : "Critical"
+	},
+		{
+		"set_number" : "BT01-064",
+		"card_name" : "Lucky Girl",
+		"rarity" : "C",
+		"trigger" : "Stand"
+	},
+		{
+		"set_number" : "BT01-065",
+		"card_name" : "Ring Girl, Clara",
+		"rarity" : "C",
+		"trigger" : "Heal"
+	},
+	{
+		"set_number" : "BT01-066",
+		"card_name" : "Sonic Noa",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-067",
+		"card_name" : "Ironclad Dragon, Shieldon",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-068",
+		"card_name" : "Stealth Beast, Chigasumi",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-069",
+		"card_name" : "Stealth Dragon, Dreadmaster",
+		"rarity" : "C",
+		"trigger" : "none"
+	},	
+	{
+		"set_number" : "BT01-070",
+		"card_name" : "Stealth Beast, Hagakure",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-071",
+		"card_name" : "Blue Dust",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-072",
+		"card_name" : "Nightmare Baby",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-073",
+		"card_name" : "Rock the Wall",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-074",
+		"card_name" : "Highspeed, Brakki",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-075",
+		"card_name" : "Wonder Boy",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-076",
+		"card_name" : "Redshoe, Milly",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-077",
+		"card_name" : "Dandy Guy, Romario",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-078",
+		"card_name" : "Guiding Zombie",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-079",
+		"card_name" : "Karma Queen",
+		"rarity" : "C",
+		"trigger" : "none"
+	},
+	{
+		"set_number" : "BT01-080",
+		"card_name" : "Madame Mirage",
+		"rarity" : "C",
+		"trigger" : "none"
+	}
+]
