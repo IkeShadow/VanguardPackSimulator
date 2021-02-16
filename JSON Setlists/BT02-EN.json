@@ -1,0 +1,482 @@
+[
+  {
+    "set_number" : "BT02-001",
+    "card_name" : "Sky Diver",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-002",
+    "card_name" : "Spirit Exceed",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-003",
+    "card_name" : "Ruin Shade",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-004",
+    "card_name" : "Soul Saver Dragon",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-005",
+    "card_name" : "Blazing Flare Dragon",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-006",
+    "card_name" : "Seal Dragon Blockade",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-007",
+    "card_name" : "Scarlet Witch, Coco",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-008",
+    "card_name" : "Lion Heat",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-009",
+    "card_name" : "General Seifried",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-010",
+    "card_name" : "Cheer Girl, Marilyn",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-011",
+    "card_name" : "King of Demonic Seas, Basskirk",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-012",
+    "card_name" : "Witch Doctor of the Abyss, Negromarl",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-013",
+    "card_name" : "Captain Nightmist",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-014",
+    "card_name" : "Gust Jinn",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-015",
+    "card_name" : "Young Pegasus Knight",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-016",
+    "card_name" : "Chain-attack Sutherland ",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-017",
+    "card_name" : "Silent Tom",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-018",
+    "card_name" : "Magician Girl, Kirara",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-019",
+    "card_name" : "Twin Blader",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-020",
+    "card_name" : "Top Idol, Flores",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-021",
+    "card_name" : "Unite Attacker",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-022",
+    "card_name" : "Treasured, Black Panther",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-023",
+    "card_name" : "Dudley Dan",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-024",
+    "card_name" : "Mecha Trainer",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-025",
+    "card_name" : "Dancing Cutlass",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-026",
+    "card_name" : "Chappie the Ghostie",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-027",
+    "card_name" : "Gigantech Charger",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-028",
+    "card_name" : "Great Sage, Barron",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-029",
+    "card_name" : "High Dog Breeder, Akane",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-030",
+    "card_name" : "Pongal",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-031",
+    "card_name" : "Blazing Core Dragon",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-032",
+    "card_name" : "Demonic Dragon Mage, Kimnara",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-033",
+    "card_name" : "Luck Bird",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-034",
+    "card_name" : "Winged Dragon, Skyptero",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-035",
+    "card_name" : "Dragon Egg",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-036",
+    "card_name" : "Top Idol, Aqua",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-037",
+    "card_name" : "Bermuda Triangle Cadet, Caravel",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-038",
+    "card_name" : "Master Fraude",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-039",
+    "card_name" : "Scientist Monkey, Rue",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-040",
+    "card_name" : "Geograph Giant",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-041",
+    "card_name" : "Panzer Gale",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-042",
+    "card_name" : "Devil Summoner",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-043",
+    "card_name" : "Cyclone Blitz",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-044",
+    "card_name" : "Spike Brothers Assault Squad",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-045",
+    "card_name" : "Sonic Breaker",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "BT02-046",
+    "card_name" : "Cheerful Lynx",
+    "rarity" : "C",
+    "trigger" : "Draw"
+  },
+  {
+    "set_number" : "BT02-047",
+    "card_name" : "Cheer Girl, Tiara",
+    "rarity" : "C",
+    "trigger" : "Heal"
+  },
+  {
+    "set_number" : "BT02-048",
+    "card_name" : "Silence Joker",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "BT02-049",
+    "card_name" : "Skeleton Swordsman",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-050",
+    "card_name" : "Samurai Spirit",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-051",
+    "card_name" : "Evil Shade",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-052",
+    "card_name" : "Knight Spirit",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "BT02-053",
+    "card_name" : "Skeleton Lookout",
+    "rarity" : "C",
+    "trigger" : "Stand"
+  },
+  {
+    "set_number" : "BT02-054",
+    "card_name" : "Rick the Ghostie",
+    "rarity" : "C",
+    "trigger" : "Heal"
+  },
+  {
+    "set_number" : "BT02-055",
+    "card_name" : "Rough Seas Banshee",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "BT02-056",
+    "card_name" : "Knight of Truth, Gordon",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-057",
+    "card_name" : "Soul Guiding Elf",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-058",
+    "card_name" : "Pixy Fife and Drum",
+    "rarity" : "C",
+    "trigger" : "Stand"
+  },
+  {
+    "set_number" : "BT02-059",
+    "card_name" : "Margal",
+    "rarity" : "C",
+    "trigger" : "Draw"
+  },
+  {
+    "set_number" : "BT02-060",
+    "card_name" : "Dragon Knight, Berger",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-061",
+    "card_name" : "Iron Tail Dragon",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-062",
+    "card_name" : "Follower, Reas",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-063",
+    "card_name" : "Lizard Runner, Nafd",
+    "rarity" : "C",
+    "trigger" : "Stand"
+  },
+  {
+  "set_number" : "BT02-064",
+  "card_name" : "Gatling Claw Dragon",
+  "rarity" : "C",
+  "trigger" : "Draw"
+},
+  {
+    "set_number" : "BT02-065",
+    "card_name" : "Security Guardian",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-066",
+    "card_name" : "One who Gazes at the Truth",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-067",
+    "card_name" : "Emergency Alarmer",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-068",
+    "card_name" : "Psychic Bird",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "BT02-069",
+    "card_name" : "Chaos Dragon, Dinochaos",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-070",
+    "card_name" : "Cannon Fire Dragon, Cannon Gear",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-071",
+    "card_name" : "NGM Prototype",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-072",
+    "card_name" : "Cray Soldier",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-073",
+    "card_name" : "Three Minutes",
+    "rarity" : "C",
+    "trigger" : "Draw"
+  },
+  {
+    "set_number" : "BT02-074",
+    "card_name" : "Red Lightning",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "BT02-075",
+    "card_name" : "Blazer Idols",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-076",
+    "card_name" : "Lady Bomb",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-077",
+    "card_name" : "Phantom Black",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-078",
+    "card_name" : "Megacolony Battler A",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-079",
+    "card_name" : "Silver Wolf",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "BT02-080",
+    "card_name" : "Intelli-mouse",
+    "rarity" : "C",
+    "trigger" : "none"
+  }
+]
