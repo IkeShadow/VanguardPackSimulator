@@ -5,7 +5,7 @@ import random
 class OGSets:
 
 	# sets in classic series / Will be Updated over time
-	sets = ["BT01-En"]
+	sets = ["BT01-EN"]
 
 	# Create rarity arrays of set
 	def __init__(self):

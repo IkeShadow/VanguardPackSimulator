@@ -1,6 +1,8 @@
 import json
 import os
 import random
+import sys
+sys.path.append("/Sets")
 from Sets import OG
 
 set_objects = dict()
@@ -27,8 +29,15 @@ def main():
     sort_sets()
 
     print(set_objects.keys())
-    selected_set_name = input('What pack do you want to open?')
-    selected_set = set_objects[selected_set_name]
+    while True:
+        try:
+            selected_set_name = input('What pack do you want to open?')
+            selected_set = set_objects[selected_set_name.upper()]
+        except KeyError:
+            print("Please enter a valid set.")
+            continue
+        else:
+            break
 
     while True:
         try:
