@@ -1,7 +1,7 @@
 import json
 import os
 import random
-from Sets import OG
+from Sets import OG, PR
 
 set_objects = dict()
 
@@ -21,6 +21,13 @@ def sort_sets():
                                     set_objects[set_name].add_card(str(r), str(x['card_name']))
                             else:
                                 set_objects[set_name].add_card(str(x['rarity']), str(x['card_name']))
+
+                for i in PR.PRSets.sets:
+                    if set_name.startswith(i):
+                        set_objects[set_name] = PR.PRSets()
+                        data = json.load(json_data)
+                        for x in data:
+                            set_objects[set_name].add_card(str(x['card_name']))
 
 
 def main():
