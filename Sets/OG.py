@@ -39,7 +39,7 @@ class OGSets:
 		for i in range(0, 4):
 			pack.append(self.common[i])
 		rarity = random.randint(0, 89)
-		if rarity in range(81, 90):
+		if rarity in range(80, 90):
 			pack.append(self.tri_rare[0])
 		elif rarity in range(65, 80):
 			pack.append(self.do_rare[0])
