@@ -53,8 +53,12 @@ def main():
         else:
             break
 
-    for p in range(0, numb_pack):
-        print(selected_set.create_pack())
+    if numb_pack == 0:
+        rare = input('Select your Rarity!')
+        print(selected_set.pull_card(rare))
+    else:
+        for p in range(0, numb_pack):
+            print(selected_set.create_pack())
 
 
 if __name__ == '__main__':

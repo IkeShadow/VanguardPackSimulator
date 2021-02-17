@@ -46,3 +46,14 @@ class OGSets:
 		else:
 			pack.append(self.rare[0])
 		return pack
+
+	def pull_card(self, rarity):
+		self.shuffle()
+		if rarity == "Common":
+			return self.common[0]
+		elif rarity == "R":
+			return self.rare[0]
+		elif rarity == "RR":
+			return self.do_rare[0]
+		elif rarity == "RRR":
+			return self.tri_rare[0]
