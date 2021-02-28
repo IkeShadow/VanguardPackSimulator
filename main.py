@@ -54,17 +54,21 @@ def main():
             continue
         else:
             break
+    t_tracker = input('Would you like to see each individual pack?')
 
     if numb_pack == 0:
         rare = input('Select your Rarity!')
         print(selected_set.pull_card(rare))
     else:
-        for p in range(0, numb_pack):
-            # full_pack.append(selected_set.create_pack())
-            full_pack += selected_set.create_pack()
-        total = Counter(full_pack)
-        for i in total:
-            print("% s : % s" % (i, total[i]), end="\n")
+        if t_tracker.upper() == "YES":
+            for p in range(0, numb_pack):
+                print(selected_set.create_pack())
+        else:
+            for p in range(0, numb_pack):
+                full_pack += selected_set.create_pack()
+            total = Counter(full_pack)
+            for i in total:
+                print("% s : % s" % (i, total[i]), end="\n")
 
 
 if __name__ == '__main__':
