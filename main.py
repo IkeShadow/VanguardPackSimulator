@@ -1,6 +1,7 @@
 import json
 import os
 import random
+from collections import Counter
 from Sets import OG, PR
 
 set_objects = dict()
@@ -32,6 +33,7 @@ def sort_sets():
 
 def main():
     sort_sets()
+    full_pack = []
 
     print(set_objects.keys())
     while True:
@@ -58,7 +60,11 @@ def main():
         print(selected_set.pull_card(rare))
     else:
         for p in range(0, numb_pack):
-            print(selected_set.create_pack())
+            # full_pack.append(selected_set.create_pack())
+            full_pack += selected_set.create_pack()
+        total = Counter(full_pack)
+        for i in total:
+            print("% s : % s" % (i, total[i]), end="\n")
 
 
 if __name__ == '__main__':
