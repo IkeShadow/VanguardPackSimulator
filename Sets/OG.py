@@ -37,14 +37,14 @@ class OGSets:
 		self.shuffle()
 		pack = []
 		for i in range(0, 4):
-			pack.append(self.common[i])
+			pack.append(self.common[i] + "; C")
 		rarity = random.randint(0, 89)
 		if rarity in range(80, 90):
-			pack.append(self.tri_rare[0])
+			pack.append(self.tri_rare[0] + "; RRR")
 		elif rarity in range(65, 80):
-			pack.append(self.do_rare[0])
+			pack.append(self.do_rare[0] + "; RR")
 		else:
-			pack.append(self.rare[0])
+			pack.append(self.rare[0] + "; R")
 		return pack
 
 	def pull_card(self, rarity):

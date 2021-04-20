@@ -1,0 +1,212 @@
+[
+  {
+    "set_number" : "EB01-001",
+    "card_name" : "Perfect Raizer",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-002",
+    "card_name" : "Dueling Dragon, ZANBAKU",
+    "rarity" : "RRR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-003",
+    "card_name" : "Hi-Powered Raizer Custom",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-004",
+    "card_name" : "Golden Beast Tamer",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-005",
+    "card_name" : "Machining Stag Beetle",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-006",
+    "card_name" : "Imperial Daughter",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-007",
+    "card_name" : "Weather Forecaster, Miss Mist",
+    "rarity" : "RR",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-008",
+    "card_name" : "Miss Splendor",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-009",
+    "card_name" : "Rocket Hammer Man",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-010",
+    "card_name" : "Twin Swordsman, MUSHASHI",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-011",
+    "card_name" : "Promise Daughter",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-012",
+    "card_name" : "Bellicosity Dragon",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-013",
+    "card_name" : "Guard Griffin",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-014",
+    "card_name" : "Sage of Guidance, Zenon",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-015",
+    "card_name" : "Savage King",
+    "rarity" : "R",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-016",
+    "card_name" : "Boomerang Thrower",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-017",
+    "card_name" : "Raizer Custom",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-018",
+    "card_name" : "Wall Boy",
+    "rarity" : "C",
+    "trigger" : "Heal"
+  },
+  {
+    "set_number" : "EB01-019",
+    "card_name" : "Cat Butler",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-020",
+    "card_name" : "Battleraizer",
+    "rarity" : "C",
+    "trigger" : "Stand"
+  },
+  {
+    "set_number" : "EB01-021",
+    "card_name" : "Jumping Jill",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-022",
+    "card_name" : "Nitro Juggler",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+  "set_number" : "EB01-023",
+  "card_name" : "Starting Presenter",
+  "rarity" : "C",
+  "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-024",
+    "card_name" : "Hoop Magician",
+    "rarity" : "C",
+    "trigger" : "Stand"
+  },
+  {
+    "set_number" : "EB01-025",
+    "card_name" : "Lark Pigeon",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-026",
+    "card_name" : "Swift Archer, FUSHIMI",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-027",
+    "card_name" : "Left Arrester",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-028",
+    "card_name" : "Right Arrester",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-029",
+    "card_name" : "Machining Mantis",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-030",
+    "card_name" : "Machining Hornet",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-031",
+    "card_name" : "Machining Worker Ant",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-032",
+    "card_name" : "Shelter Beetle",
+    "rarity" : "C",
+    "trigger" : "Critical"
+  },
+  {
+    "set_number" : "EB01-033",
+    "card_name" : "Lozenge Magus",
+    "rarity" : "C",
+    "trigger" : "Heal"
+  },
+  {
+    "set_number" : "EB01-034",
+    "card_name" : "Prowling Dragon, Striken",
+    "rarity" : "C",
+    "trigger" : "none"
+  },
+  {
+    "set_number" : "EB01-035",
+    "card_name" : "Spike Bouncer",
+    "rarity" : "C",
+    "trigger" : "none"
+  }
+]

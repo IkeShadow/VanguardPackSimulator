@@ -1,7 +1,7 @@
 import json
 import os
 from collections import Counter
-from Sets import OG, PR
+from Sets import OG, PR, EB
 
 set_objects = dict()
 
@@ -28,6 +28,17 @@ def sort_sets():
                         data = json.load(json_data)
                         for x in data:
                             set_objects[set_name].add_card(str(x['card_name']))
+
+                for i in EB.EBSets.sets:
+                    if set_name.startswith(i):
+                        set_objects[set_name] = OG.OGSets()
+                        data = json.load(json_data)
+                        for x in data:
+                            if '\n' in x['rarity']:
+                                for r in x['rarity'].split('\n'):
+                                    set_objects[set_name].add_card(str(r), str(x['card_name']))
+                            else:
+                                set_objects[set_name].add_card(str(x['rarity']), str(x['card_name']))
 
 
 def main():
